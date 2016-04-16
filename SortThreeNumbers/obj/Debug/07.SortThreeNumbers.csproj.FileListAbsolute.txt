@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\ConditionalStatements\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe.config
+D:\Orlinovski Tapotii\ConditionalStatements\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe
+D:\Orlinovski Tapotii\ConditionalStatements\SortThreeNumbers\bin\Debug\SortThreeNumbers.pdb
+D:\Orlinovski Tapotii\ConditionalStatements\SortThreeNumbers\obj\Debug\07.SortThreeNumbers.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\ConditionalStatements\SortThreeNumbers\obj\Debug\SortThreeNumbers.exe
+D:\Orlinovski Tapotii\ConditionalStatements\SortThreeNumbers\obj\Debug\SortThreeNumbers.pdb

@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\ConditionalStatements\PlayCard\bin\Debug\PlayCard.exe.config
+D:\Orlinovski Tapotii\ConditionalStatements\PlayCard\bin\Debug\PlayCard.exe
+D:\Orlinovski Tapotii\ConditionalStatements\PlayCard\bin\Debug\PlayCard.pdb
+D:\Orlinovski Tapotii\ConditionalStatements\PlayCard\obj\Debug\PlayCard.exe
+D:\Orlinovski Tapotii\ConditionalStatements\PlayCard\obj\Debug\PlayCard.pdb

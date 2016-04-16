@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\ConditionalStatements\EchangeIfGreater\bin\Debug\EchangeIfGreater.exe.config
+D:\Orlinovski Tapotii\ConditionalStatements\EchangeIfGreater\bin\Debug\EchangeIfGreater.exe
+D:\Orlinovski Tapotii\ConditionalStatements\EchangeIfGreater\bin\Debug\EchangeIfGreater.pdb
+D:\Orlinovski Tapotii\ConditionalStatements\EchangeIfGreater\obj\Debug\EchangeIfGreater.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\ConditionalStatements\EchangeIfGreater\obj\Debug\EchangeIfGreater.exe
+D:\Orlinovski Tapotii\ConditionalStatements\EchangeIfGreater\obj\Debug\EchangeIfGreater.pdb

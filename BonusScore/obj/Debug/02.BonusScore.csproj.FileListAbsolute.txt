@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\ConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
+D:\Orlinovski Tapotii\ConditionalStatements\BonusScore\bin\Debug\BonusScore.exe
+D:\Orlinovski Tapotii\ConditionalStatements\BonusScore\bin\Debug\BonusScore.pdb
+D:\Orlinovski Tapotii\ConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
+D:\Orlinovski Tapotii\ConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb
